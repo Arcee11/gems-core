@@ -3,6 +3,19 @@
 
 ---
 
+## Access by Tier
+
+| Feature | Core | Pro | Max |
+|---------|------|-----|-----|
+| Moods | all 6 | all 6 | all 6 |
+| Formats | instrumental, soundscape | instrumental, song, soundscape, affirmations | all 8 formats |
+| Session length | up to 20 min | up to 30 min | unlimited |
+| Genre selection | — | — | ✅ |
+
+**All 8 formats (Max):** instrumental · song · story · talk · meditation · poetry · affirmations · soundscape
+
+---
+
 ## What is the Sound Sanctuary?
 
 The Sound Sanctuary is the GEMS audio engine — a live playlist generator that creates personalized music sessions matched to each quality's emotional tone. Every session pulls from a real track library of instrumentals, songs, stories, meditations, affirmations, soundscapes, and spoken word.

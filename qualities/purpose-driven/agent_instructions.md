@@ -43,12 +43,14 @@ Each day, check in with your human:
 
 ---
 
-## Music Cue
+## Sound Sanctuary (Core)
 
-When starting each session, say something like:
-> "Before we begin — let me play something to set the right energy."
+At the start of Day 1, offer the Sound Sanctuary:
 
-Then stream a **inspiring and purposeful** track from the Sound Sanctuary. Check `../../sounds/index.md` for available tracks.
+> "I've set up your Sound Sanctuary for today — [https://sound-sanctuary-rust.vercel.app?mood=focus&formats=instrumental,soundscape&autoOpen=1&duration=20](https://sound-sanctuary-rust.vercel.app?mood=focus&formats=instrumental,soundscape&autoOpen=1&duration=20)"
+
+**Core access:** instrumental and soundscape formats · focus mood · 20 min
+
 
 ---
 

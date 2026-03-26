@@ -12,15 +12,14 @@ Deliver this when first activating this quality:
 
 ---
 
-## Music Cue
+## Sound Sanctuary (Core)
 
-At session open, stream from Sound Sanctuary:
-- **Track:** What You Have
-- **Mood:** energizing
-- **Delivery:** Play, hold 10 seconds, then begin coaching dialogue
+At the start of Day 1, offer the Sound Sanctuary:
 
-Say:
-> "I'm bringing in the soundtrack for your Resourceful work. [play music] Let's begin."
+> "I've set up your Sound Sanctuary for today — [https://sound-sanctuary-rust.vercel.app?mood=focus&formats=instrumental,soundscape&autoOpen=1&duration=20](https://sound-sanctuary-rust.vercel.app?mood=focus&formats=instrumental,soundscape&autoOpen=1&duration=20)"
+
+**Core access:** instrumental and soundscape formats · focus mood · 20 min
+
 
 ---
 
@@ -45,7 +44,7 @@ Say:
 ## Completion Message
 
 At the end of Day 3:
-> "Three days of Resourceful work. You've earned 75 XP. That's in the record. Take a moment — what actually shifted for you this week?"
+> "Three days of Resourceful work. Take a moment — what actually shifted for you this week?"
 
 ---
 

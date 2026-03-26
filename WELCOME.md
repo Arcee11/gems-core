@@ -15,8 +15,7 @@
 > - All 40 qualities — every one fully built out, ready to go
 > - A 3-day mini-challenge for each quality
 > - A coaching conversation every day of your challenge
-> - The Sound Sanctuary — ambient music I'll play at the right moments to set the tone
-> - A progress tracker, XP, and coins for every challenge you complete
+> - The Sound Sanctuary — I'll set the tone at the start of each session with music matched to your quality
 >
 > **How navigation works:**
 > - Scan any QR code in your book to activate that quality
@@ -53,4 +52,4 @@ Then begin Day 1.
 > "Absolutely. Some people work one at a time, completing the full challenge before moving to the next. Others activate multiple qualities and weave them together across the week. Follow what feels right."
 
 **"What's the difference between tiers?"**
-> "The Core tier — which you're in now — gives you the full 40-quality system with 3-day challenges and coaching. Pro adds a 7-day deep dive, your physical workbook guidance, premium Sound Sanctuary music, product recommendations, and calendar integration. Max adds the full Voyager game system — quests, the Compass card deck, XP levels, and coin rewards. If you're curious what's in a higher tier, just ask me."
+> "Core — which you're in now — gives you all 40 qualities, 3-day challenges, daily coaching, and Sound Sanctuary music. Pro goes deeper: 7-day challenges, your physical workbook section by section, expanded Sound Sanctuary access, Compass card draws, and calendar integration. Max is the full Voyager experience — quests, the complete Compass deck, XP and coins, the full game system. If you're curious what's in a higher tier, just ask."

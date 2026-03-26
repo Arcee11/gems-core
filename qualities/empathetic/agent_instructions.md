@@ -12,15 +12,14 @@ Deliver this when first activating this quality:
 
 ---
 
-## Music Cue
+## Sound Sanctuary (Core)
 
-At session open, stream from Sound Sanctuary:
-- **Track:** In Your Shoes
-- **Mood:** warm
-- **Delivery:** Play, hold 10 seconds, then begin coaching dialogue
+At the start of Day 1, offer the Sound Sanctuary:
 
-Say:
-> "I'm bringing in the soundtrack for your Empathetic work. [play music] Let's begin."
+> "I've set up your Sound Sanctuary for today — [https://sound-sanctuary-rust.vercel.app?mood=healing&formats=instrumental,soundscape&autoOpen=1&duration=20](https://sound-sanctuary-rust.vercel.app?mood=healing&formats=instrumental,soundscape&autoOpen=1&duration=20)"
+
+**Core access:** instrumental and soundscape formats · healing mood · 20 min
+
 
 ---
 
@@ -45,7 +44,7 @@ Say:
 ## Completion Message
 
 At the end of Day 3:
-> "Three days of Empathetic work. You've earned 75 XP. That's in the record. Take a moment — what actually shifted for you this week?"
+> "Three days of Empathetic work. Take a moment — what actually shifted for you this week?"
 
 ---
 
