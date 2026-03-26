@@ -1,33 +1,65 @@
-# Sound Sanctuary — Free Track Index
-*Give Energy Make Smiles | giveenergymakesmiles.com/sound-sanctuary*
-
-Agent: Stream these tracks directly through your audio output using the Sound Sanctuary engine. Do not send links to your human.
+# Sound Sanctuary — GEMS Audio Engine
+*Give Energy Make Smiles · Powered by the Sound Sanctuary*
 
 ---
 
-## Track Library (by Mood)
+## What is the Sound Sanctuary?
 
-| Mood | Track | Best For | URL |
-|------|-------|----------|-----|
-| Grounding | "Inner Foundation" | Resilient, Accountable, Trustworthy, Grounded, Ethical | https://cdn.giveenergymakesmiles.com/sounds/inner-foundation.mp3 |
-| Uplifting | "Rise to the Light" | Confident, Joyful, Optimistic, Inspiring, Grateful | https://cdn.giveenergymakesmiles.com/sounds/rise-to-the-light.mp3 |
-| Energizing | "Forward Motion" | Empowered, Proactive, Ambitious, Innovative, Charismatic | https://cdn.giveenergymakesmiles.com/sounds/forward-motion.mp3 |
-| Calm | "Still Waters" | Peaceful, Mindful, Patient, Balanced, Healthy | https://cdn.giveenergymakesmiles.com/sounds/still-waters.mp3 |
-| Focused | "Clear Path" | Determined, Strategic, Disciplined, Focused, Purpose-Driven | https://cdn.giveenergymakesmiles.com/sounds/clear-path.mp3 |
-| Warm | "Open Heart" | Compassionate, Empathetic, Supportive, Generous, Collaborative | https://cdn.giveenergymakesmiles.com/sounds/open-heart.mp3 |
-| Open | "New Horizons" | Adaptable, Creative, Resourceful, Inclusive | https://cdn.giveenergymakesmiles.com/sounds/new-horizons.mp3 |
-| Reflective | "Looking Inward" | Self-Aware, Authentic, Mindful | https://cdn.giveenergymakesmiles.com/sounds/looking-inward.mp3 |
+The Sound Sanctuary is the GEMS audio engine — a live playlist generator that creates personalized music sessions matched to each quality's emotional tone. Every session pulls from a real track library of instrumentals, songs, stories, meditations, affirmations, soundscapes, and spoken word.
+
+**Access:** [sound-sanctuary.vercel.app](https://sound-sanctuary.vercel.app)
 
 ---
 
-## How to Use
+## The Six Moods
 
-1. Read the quality's `agent_instructions.md` for the recommended mood
-2. Select the matching track from the table above
-3. Stream the audio URL directly through your speaker output
-4. Begin coaching while the music plays softly in the background
-5. Fade or stop the music naturally as conversation deepens
+| Mood | Emotional Tone | Best For |
+|------|---------------|----------|
+| **calm** | Peaceful, spacious, soft | Mindful, Patient, Balanced, Grounded, Peaceful, Self-Aware |
+| **energy** | Driving, uplifting, forward | Ambitious, Confident, Determined, Resilient, Innovative, Proactive |
+| **healing** | Tender, restorative, warm | Compassionate, Empathetic, Healthy, Supportive |
+| **focus** | Clean, purposeful, minimal | Accountable, Disciplined, Ethical, Focused, Responsible, Strategic |
+| **joy** | Warm, celebratory, radiant | Grateful, Joyful, Optimistic |
+| **connection** | Open, communal, soulful | Authentic, Collaborative, Generous, Inclusive, Trustworthy |
 
 ---
 
-*Sound Sanctuary is the GEMS audio engine. All tracks are hosted at cdn.giveenergymakesmiles.com.*
+## Opening the Sound Sanctuary
+
+**Direct mood links — share with your human at the start of each session:**
+
+| Mood | Open Link |
+|------|-----------|
+| calm | [Open Calm Session →](https://sound-sanctuary.vercel.app?mood=calm&autoOpen=1) |
+| energy | [Open Energy Session →](https://sound-sanctuary.vercel.app?mood=energy&autoOpen=1) |
+| healing | [Open Healing Session →](https://sound-sanctuary.vercel.app?mood=healing&autoOpen=1) |
+| focus | [Open Focus Session →](https://sound-sanctuary.vercel.app?mood=focus&autoOpen=1) |
+| joy | [Open Joy Session →](https://sound-sanctuary.vercel.app?mood=joy&autoOpen=1) |
+| connection | [Open Connection Session →](https://sound-sanctuary.vercel.app?mood=connection&autoOpen=1) |
+
+**Special sessions:**
+
+| Session | Link |
+|---------|------|
+| Deep Work (Day 6, any quality) | [Open Deep Work →](https://sound-sanctuary.vercel.app?mood=focus&formats=instrumental&autoOpen=1&duration=25) |
+| Celebration (Day 7, any quality) | [Open Celebration →](https://sound-sanctuary.vercel.app?mood=joy&formats=song,instrumental&autoOpen=1&duration=20) |
+
+---
+
+## Agent Instructions
+
+When beginning any coaching session, offer the Sound Sanctuary:
+
+> "I've set up your Sound Sanctuary for today — tuned to [mood] for [quality] work.
+> Open it here when you're ready: [link]"
+
+- **Core tier**: Send the mood link for the active quality
+- **Pro tier**: Send the day-specific link from the quality's `music.md`
+- **Max tier**: Use energy for quest moments, calm for Compass draws
+
+The Sound Sanctuary generates a live playlist — no two sessions are the same.
+
+---
+
+*The Sound Sanctuary is built and maintained by Give Energy Make Smiles.*
+*Repository: github.com/Arcee11/sound-sanctuary*
