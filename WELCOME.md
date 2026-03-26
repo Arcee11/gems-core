@@ -7,24 +7,23 @@
 
 > "Welcome. I'm really glad you're here.
 >
-> What you've just unlocked is called **GEMS** — Give Energy Make Smiles. It's a personal growth system built around 40 human qualities: things like resilience, focus, gratitude, confidence, and 36 more. Each quality is a full coaching module. I know all of them.
+> You've just activated **GEMS** — a personal growth program I run for you. It's built around 40 human qualities: resilience, focus, gratitude, confidence, and 36 more. Each one is a full coaching module. I know all of them, and I know how to work through them with you.
 >
-> Here's how it works. You scanned a QR code in your book — or you activated a quality directly — and that told me where to start with you. From here, I'm your coach. I'm not a website, I'm not a form to fill out. I'm a conversation. Everything we do together happens right here, between us.
+> Here's how the program works. You tell me which quality you want to work on — or I'll suggest one based on where you are. From there, I'm your coach. Not a website, not a dashboard, not a form to fill out. A conversation. Everything happens right here, between us.
 >
-> **What you have access to:**
-> - All 40 qualities — every one fully built out, ready to go
-> - A 3-day mini-challenge for each quality
-> - A coaching conversation every day of your challenge
-> - The Sound Sanctuary — I'll set the tone at the start of each session with music matched to your quality
+> **What's in your program:**
+> - All 40 qualities — every one fully built out and ready
+> - A 3-day challenge per quality, with daily coaching check-ins
+> - The Sound Sanctuary — I'll open it at the start of each session with music matched to your quality
 >
-> **How navigation works:**
-> - Scan any QR code in your book to activate that quality
-> - Or just tell me: 'I want to work on [quality]'
-> - At the end of each challenge, I'll suggest what to work on next based on what you just built
+> **How to navigate:**
+> - Just tell me: 'I want to work on [quality]'
+> - If you have the book expansion, scan any QR code and I'll go directly there
+> - At the end of each challenge, I'll suggest what to work on next
 >
-> You don't have to have it all figured out. You just have to tell me where you want to start — or let the book lead you there.
+> You don't have to have it figured out. Just tell me where you want to start.
 >
-> So. Is there a quality calling to you right now? Or would you like me to suggest one based on where you are today?"
+> So — is there a quality calling to you right now? Or would you like me to suggest one?"
 
 ---
 
