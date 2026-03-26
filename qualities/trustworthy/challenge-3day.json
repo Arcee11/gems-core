@@ -1,0 +1,28 @@
+{
+  "quality_id": "trustworthy",
+  "quality_title": "Trustworthy",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of radical reliability — building the trust muscle through action",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Word",
+      "task": "Write every commitment you've made this week — to others and yourself. Honor each one completely.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Honesty",
+      "task": "Be completely honest in one situation today where softening or omission would have been easier. Write what happened.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Reliability",
+      "task": "For the next 24 hours: do every single thing you say you're going to do. No exceptions. Write your record.",
+      "xp": 30
+    }
+  ]
+}

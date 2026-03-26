@@ -1,0 +1,28 @@
+{
+  "quality_id": "balanced",
+  "quality_title": "Balanced",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of intentional balance — building a sustainable rhythm",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Audit",
+      "task": "Write out how you spent your time this week. Rate each category: too much, too little, or right.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Protection",
+      "task": "Block one hour of restorative time today and refuse to let anything override it.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Rhythm",
+      "task": "Design a weekly rhythm — not a schedule, a rhythm — that feels sustainable. Write it out.",
+      "xp": 30
+    }
+  ]
+}

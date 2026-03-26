@@ -1,0 +1,28 @@
+{
+  "quality_id": "responsible",
+  "quality_title": "Responsible",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of taking full ownership — being the person who shows up",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Commitment",
+      "task": "Make one explicit commitment today — to yourself or someone else. Keep it completely. Write what it was.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Ownership",
+      "task": "Find one area where you've been attributing your situation to external factors. Write your actual role in it honestly.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Impact",
+      "task": "Before making one decision today, pause and ask: how does this affect the people around me? Adjust accordingly.",
+      "xp": 30
+    }
+  ]
+}

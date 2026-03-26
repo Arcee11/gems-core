@@ -1,0 +1,28 @@
+{
+  "quality_id": "ethical",
+  "quality_title": "Ethical",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of doing what's right — not what's easy",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Standard",
+      "task": "Set one ethical standard for today and hold it — in your work, your words, your choices. Write what it cost you, if anything.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Reckoning",
+      "task": "Identify one area where you've been rationalizing. Write the truth about it — honestly.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Witness",
+      "task": "Make one ethical choice today that no one will see. Then sit with how that feels.",
+      "xp": 30
+    }
+  ]
+}

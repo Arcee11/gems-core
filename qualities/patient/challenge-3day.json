@@ -1,0 +1,28 @@
+{
+  "quality_id": "patient",
+  "quality_title": "Patient",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of letting it take time — practicing patience in an impatient world",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Notice",
+      "task": "Notice every moment today where impatience arises. Write them down. What are you impatient about — and why?",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Pause",
+      "task": "When you feel urgency today, deliberately add a pause before acting. Note each one. What changed when you waited?",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Long",
+      "task": "Do something today knowing the result is weeks or months away. Do it anyway. Write about what it means to work for the future.",
+      "xp": 30
+    }
+  ]
+}

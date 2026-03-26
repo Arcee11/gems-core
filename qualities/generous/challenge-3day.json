@@ -1,0 +1,28 @@
+{
+  "quality_id": "generous",
+  "quality_title": "Generous",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of giving beyond the ask — practicing the abundance mindset",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Give",
+      "task": "Give something meaningful to someone today with no expectation of return. Write what you gave and how it felt.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Exceed",
+      "task": "In one interaction today, give more than is expected or required. Notice the response.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Share",
+      "task": "Share something genuinely valuable — a connection, an idea, an opportunity — with someone who needs it.",
+      "xp": 30
+    }
+  ]
+}

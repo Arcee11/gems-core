@@ -1,0 +1,28 @@
+{
+  "quality_id": "accountable",
+  "quality_title": "Accountable",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Owning your word — three days of radical follow-through",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Inventory",
+      "task": "List three things you've been avoiding or letting slide. Pick one. Start today.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Promise",
+      "task": "Make one explicit commitment to one person. Write it down. Do it.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Reckoning",
+      "task": "Review the week: where did you show up? Where did you fall short? Write an honest account.",
+      "xp": 30
+    }
+  ]
+}

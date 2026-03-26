@@ -1,0 +1,28 @@
+{
+  "quality_id": "supportive",
+  "quality_title": "Supportive",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of intentional support — showing up in ways that actually help",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Ask",
+      "task": "Ask one person: 'What do you need from me right now?' Deliver exactly that.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Follow-Up",
+      "task": "Reach out to one person going through something difficult. Not a quick check-in — actually check in.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Listen",
+      "task": "When someone brings you a problem today, ask 'do you want advice or do you want to be heard?' then honor their answer.",
+      "xp": 30
+    }
+  ]
+}

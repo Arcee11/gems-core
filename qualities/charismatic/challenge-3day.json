@@ -1,0 +1,28 @@
+{
+  "quality_id": "charismatic",
+  "quality_title": "Charismatic",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of radical presence — making every person you meet feel seen",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Presence",
+      "task": "In every conversation today, put your phone away and make eye contact. Write what you noticed.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Question",
+      "task": "Ask one genuine, specific question to five different people. Notice the responses.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Memory",
+      "task": "Remember something from a previous conversation with three people and bring it up. 'How did that thing go?'",
+      "xp": 30
+    }
+  ]
+}

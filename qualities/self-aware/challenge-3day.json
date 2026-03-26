@@ -1,0 +1,28 @@
+{
+  "quality_id": "self-aware",
+  "quality_title": "Self-Aware",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of honest self-examination — seeing yourself more clearly",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Ask",
+      "task": "Ask one trusted person: 'What's one blind spot I might have about myself?' Just listen. Don't defend. Write what you heard.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Trigger",
+      "task": "Notice one emotional trigger today — something that made you reactive. Write: what set it off, what it might reveal.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Honest",
+      "task": "Write an honest self-assessment: 3 genuine strengths, 2 real growth edges, 1 pattern you're ready to change.",
+      "xp": 30
+    }
+  ]
+}

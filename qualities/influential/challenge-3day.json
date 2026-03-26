@@ -1,0 +1,28 @@
+{
+  "quality_id": "influential",
+  "quality_title": "Influential",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of intentional influence — leading people toward better",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Story",
+      "task": "Make a case for something you believe in — but tell it as a story, not an argument. Write or deliver it.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Investment",
+      "task": "Identify one person you have influence over. Do one thing today that actively serves their growth or wellbeing.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Trust",
+      "task": "Influence requires trust. Do one thing today to build trust with someone important in your life.",
+      "xp": 30
+    }
+  ]
+}

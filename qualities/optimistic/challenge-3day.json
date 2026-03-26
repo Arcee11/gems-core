@@ -1,0 +1,28 @@
+{
+  "quality_id": "optimistic",
+  "quality_title": "Optimistic",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of choosing the possible — training the optimism muscle",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Best",
+      "task": "For your current biggest challenge, write the best realistic outcome. Then write one action toward it.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Challenge",
+      "task": "When something goes wrong today, catch the pessimistic interpretation and write an alternative — equally true, more hopeful.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Evidence",
+      "task": "Write 5 pieces of evidence from your own life that things often work out. Build the case for optimism from your history.",
+      "xp": 30
+    }
+  ]
+}

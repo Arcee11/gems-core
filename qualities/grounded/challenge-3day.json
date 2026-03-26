@@ -1,0 +1,28 @@
+{
+  "quality_id": "grounded",
+  "quality_title": "Grounded",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of centering — returning to your root no matter what pulls you away",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Anchor",
+      "task": "Establish one physical grounding practice today: feet on the ground, five deep breaths, cold water — something that returns you. Use it at least 3x.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Pause",
+      "task": "Every time you feel reactive or scattered today, pause for 5 breaths before acting. Write how many times you caught yourself.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Root",
+      "task": "Write what you know for certain about who you are — values, commitments, non-negotiables. Read it when you feel unsteady.",
+      "xp": 30
+    }
+  ]
+}

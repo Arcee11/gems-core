@@ -1,0 +1,28 @@
+{
+  "quality_id": "resourceful",
+  "quality_title": "Resourceful",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of working with what you have — building the resourcefulness mindset",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Inventory",
+      "task": "List every resource you currently have for your most important goal: skills, contacts, tools, time, knowledge. Write what you actually have.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Constraint",
+      "task": "Pick one constraint you're facing. Treat it as a design parameter, not a blocker. What can you build within it?",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Ask",
+      "task": "Identify one person who has already solved a problem you're facing. Ask them one specific question today.",
+      "xp": 30
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "quality_id": "collaborative",
+  "quality_title": "Collaborative",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of building with others — practicing the art of we",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Ask",
+      "task": "Ask one person what they need from you right now. Actually deliver it.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Amplify",
+      "task": "In your next group setting, find a way to amplify someone else's idea — not your own.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Credit",
+      "task": "Publicly credit someone for a contribution they made that usually goes unrecognized.",
+      "xp": 30
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "quality_id": "authentic",
+  "quality_title": "Authentic",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of dropping the performance — showing up as the real thing",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Mask",
+      "task": "Identify one mask you wear regularly. Write about when it started and what it protects.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Truth",
+      "task": "Share something true with one person that you'd normally keep polished or hidden.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Integration",
+      "task": "Spend a full day acting from your actual values — not what's expected. Write what changed.",
+      "xp": 30
+    }
+  ]
+}

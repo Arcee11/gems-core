@@ -1,0 +1,28 @@
+{
+  "quality_id": "adaptable",
+  "quality_title": "Adaptable",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of intentional flexibility — disrupting your own patterns",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Routine Break",
+      "task": "Change one thing about your routine today. Notice the resistance — and the result.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Pivot",
+      "task": "When something doesn't go to plan today, don't force the original plan. Adapt and note what you found.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Reframe",
+      "task": "Take one current challenge and write 3 alternative ways to see it or respond to it.",
+      "xp": 30
+    }
+  ]
+}

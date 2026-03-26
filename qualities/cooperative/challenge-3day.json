@@ -1,0 +1,28 @@
+{
+  "quality_id": "cooperative",
+  "quality_title": "Cooperative",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of active cooperation — contributing your part with intention",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Contribution",
+      "task": "Identify one group or shared effort you're part of. Do your part fully — without being reminded or asked.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Support",
+      "task": "Ask someone in your life 'what would help you most right now?' and deliver exactly that.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Ease",
+      "task": "Remove one friction point from a shared situation — make someone else's job or life a little easier today.",
+      "xp": 30
+    }
+  ]
+}

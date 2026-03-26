@@ -1,0 +1,28 @@
+{
+  "quality_id": "disciplined",
+  "quality_title": "Disciplined",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of doing it anyway — building the discipline muscle",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Priority",
+      "task": "Complete your most important task before checking email, social media, or messages. Record the time you finished.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The System",
+      "task": "Design one system that makes your most important habit automatic — remove every friction point you can.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Streak",
+      "task": "Do your most important habit three days in a row regardless of how you feel. Today is day 3.",
+      "xp": 30
+    }
+  ]
+}

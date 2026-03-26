@@ -1,0 +1,28 @@
+{
+  "quality_id": "successful",
+  "quality_title": "Successful",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of self-defined success — building toward the right destination",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Definition",
+      "task": "Write your personal definition of success. Not society's, not your parents'. Yours. Be specific.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Audit",
+      "task": "Compare your current life to your definition. Rate each area: aligned, partial, or misaligned. Write honestly.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Realign",
+      "task": "Identify one thing you're pursuing that doesn't fit your definition. Make one decision to realign toward what actually matters.",
+      "xp": 30
+    }
+  ]
+}

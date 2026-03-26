@@ -1,0 +1,28 @@
+{
+  "quality_id": "inclusive",
+  "quality_title": "Inclusive",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of actively making room — inclusion as a practice, not a policy",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Notice",
+      "task": "In every group setting today, notice who is quiet or on the margins. Find one way to include them.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Perspective",
+      "task": "Seek out one perspective significantly different from your own. Engage with genuine curiosity, not debate.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Check",
+      "task": "Before making one decision that affects others: ask 'who haven't I heard from?' Then actually ask them.",
+      "xp": 30
+    }
+  ]
+}

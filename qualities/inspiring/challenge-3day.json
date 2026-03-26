@@ -1,0 +1,28 @@
+{
+  "quality_id": "inspiring",
+  "quality_title": "Inspiring",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of living as inspiration — being the thing you want to see",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Enthusiasm",
+      "task": "Share something you're genuinely excited about with at least two people today. Let the real enthusiasm be visible.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Belief",
+      "task": "Tell someone specifically what you believe they're capable of — something they might not see in themselves.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Living",
+      "task": "Live one full day fully according to your stated values. Don't announce it. Just do it. Write what that day looked like.",
+      "xp": 30
+    }
+  ]
+}

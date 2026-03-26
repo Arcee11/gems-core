@@ -1,0 +1,28 @@
+{
+  "quality_id": "creative",
+  "quality_title": "Creative",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of creation — making things that didn't exist before",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Make",
+      "task": "Create something — anything — with no practical purpose. Art for art's sake. Write about what came out.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Problem",
+      "task": "Take one current challenge and generate 10 possible solutions — no matter how wild. Pick the most interesting one.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The New Input",
+      "task": "Consume something completely outside your normal world — art, music, writing, experience. Write what it sparked.",
+      "xp": 30
+    }
+  ]
+}

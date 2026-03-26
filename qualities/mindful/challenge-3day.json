@@ -1,0 +1,28 @@
+{
+  "quality_id": "mindful",
+  "quality_title": "Mindful",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of returning to the present — practicing the most important skill",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Silence",
+      "task": "Sit in complete silence for 10 minutes. Just observe what arises — without judgment. Write what you found.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Single",
+      "task": "Choose one activity today and do it with full presence — no multitasking, no phone. Write which activity and what you noticed.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Return",
+      "task": "Every time your mind wanders today, simply notice and return to the present — without judgment. Count the returns.",
+      "xp": 30
+    }
+  ]
+}

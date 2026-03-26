@@ -1,0 +1,28 @@
+{
+  "quality_id": "grateful",
+  "quality_title": "Grateful",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of intentional gratitude — training the eye to see what's good",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The List",
+      "task": "Write 10 specific gratitudes — not generic. Go deeper than 'my health and family.' Find the specific.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Direct",
+      "task": "Tell one person specifically what you're grateful for about them. Not a text — say it or write it fully.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Difficult",
+      "task": "Find something genuinely difficult in your life right now. Write what it has given you, taught you, or opened in you.",
+      "xp": 30
+    }
+  ]
+}

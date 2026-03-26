@@ -1,0 +1,28 @@
+{
+  "quality_id": "joyful",
+  "quality_title": "Joyful",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of choosing joy — practicing the muscle of delight",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Pure",
+      "task": "Do one thing today with zero productivity value — only because it makes you happy. Write what it was.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Notice",
+      "task": "List 5 moments from the last 7 days that had genuine joy in them. Even small. Even brief. Write them.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Play",
+      "task": "Bring one playful or joyful element into something ordinary today — a work task, a commute, a meal. Write what changed.",
+      "xp": 30
+    }
+  ]
+}

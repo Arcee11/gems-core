@@ -1,0 +1,28 @@
+{
+  "quality_id": "determined",
+  "quality_title": "Determined",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of sustained commitment — staying in the arena",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Recommit",
+      "task": "Name one goal you've let slip. Write out exactly why it matters and recommit in specific terms.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Obstacle",
+      "task": "Identify the #1 thing between you and your goal. Today you address it — directly.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Streak",
+      "task": "Do the most important task toward your goal for three days straight. Day 3 today — don't break the chain.",
+      "xp": 30
+    }
+  ]
+}

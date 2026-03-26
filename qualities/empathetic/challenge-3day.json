@@ -1,0 +1,28 @@
+{
+  "quality_id": "empathetic",
+  "quality_title": "Empathetic",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of deep listening — understanding before responding",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Listen",
+      "task": "In every significant conversation today, focus 80% on understanding, 20% on responding. Write what you noticed.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Inside",
+      "task": "For one person who frustrates you, spend 5 minutes imagining their full life context. Write what softens.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Question",
+      "task": "Ask someone 'what's that been like for you?' about something they're going through. Hold the space without fixing.",
+      "xp": 30
+    }
+  ]
+}

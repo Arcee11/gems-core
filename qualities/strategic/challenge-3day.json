@@ -1,0 +1,28 @@
+{
+  "quality_id": "strategic",
+  "quality_title": "Strategic",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of thinking before moving — practicing the strategic mindset",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Leverage",
+      "task": "Before starting work today, spend 10 minutes asking: what is the single highest-leverage thing I could do? Then do that first.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Map",
+      "task": "Pick your most important current goal. Map out the next 30 days — identify the three moves that will matter most.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Stop",
+      "task": "Identify one thing you're currently doing that doesn't serve your long-term goals. Write the case for stopping it.",
+      "xp": 30
+    }
+  ]
+}

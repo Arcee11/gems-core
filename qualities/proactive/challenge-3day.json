@@ -1,0 +1,28 @@
+{
+  "quality_id": "proactive",
+  "quality_title": "Proactive",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of acting first — leading instead of reacting",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Future",
+      "task": "Look at next month. What will be urgent then if you don't act now? Address one of those things today.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The First",
+      "task": "Start one thing today that you've been waiting for the right time, more information, or someone else's move. Start it.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Decision",
+      "task": "Make one significant decision for your future self — not your present comfort. Write what you decided and why.",
+      "xp": 30
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "quality_id": "innovative",
+  "quality_title": "Innovative",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of thinking differently — challenging assumptions and building something new",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Problem",
+      "task": "Pick one recurring frustration. Spend 20 minutes generating solutions — especially ones that seem too different.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Opposite",
+      "task": "Take one assumption about how something should be done. Ask: what if we did the exact opposite? Where does that lead?",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Cross",
+      "task": "Study something from a completely different field than yours. Find one idea that transfers. Write what it opens up.",
+      "xp": 30
+    }
+  ]
+}

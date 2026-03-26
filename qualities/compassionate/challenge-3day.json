@@ -1,0 +1,28 @@
+{
+  "quality_id": "compassionate",
+  "quality_title": "Compassionate",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of active compassion — care that shows up",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Notice",
+      "task": "Pay close attention today to who around you might be struggling. Do one thing that shows you noticed.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Self",
+      "task": "Practice self-compassion: write a paragraph to yourself the way you'd write to a dear friend going through what you're going through.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Action",
+      "task": "Do one concrete act of compassion for someone — not a feeling, an action. Write what you did.",
+      "xp": 30
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "quality_id": "healthy",
+  "quality_title": "Healthy",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of foundational health — the basics, done with intention",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Sleep",
+      "task": "Set a sleep time tonight and stick to it. No screen 30 minutes before. Write how you feel in the morning.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Move",
+      "task": "Move for 30 minutes today — walk, stretch, workout, dance. Move until you feel it. Write what you did.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Nourish",
+      "task": "Prepare one meal from whole ingredients with intention. Eat it without screens. Write how it felt.",
+      "xp": 30
+    }
+  ]
+}

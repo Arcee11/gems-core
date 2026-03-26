@@ -1,0 +1,28 @@
+{
+  "quality_id": "focused",
+  "quality_title": "Focused",
+  "challenge_tier": "basic",
+  "duration_days": 3,
+  "xp_total": 75,
+  "theme": "Three days of single-point focus — doing one thing fully",
+  "days": [
+    {
+      "day": 1,
+      "theme": "The Block",
+      "task": "Work for 90 minutes on one thing with zero interruptions. Phone off. One tab. Write what happened.",
+      "xp": 20
+    },
+    {
+      "day": 2,
+      "theme": "The Distraction",
+      "task": "Identify your #1 distraction source. Remove it completely for the day. Write what you noticed.",
+      "xp": 25
+    },
+    {
+      "day": 3,
+      "theme": "The Definition",
+      "task": "Before every task today, write exactly what 'done' looks like. Work only toward that definition.",
+      "xp": 30
+    }
+  ]
+}
