@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Trustworthy — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Trustworthy. Trust is built in small moments and lost in large ones. This challenge is about the small moments — and making them count.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

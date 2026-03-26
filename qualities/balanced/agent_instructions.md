@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Balanced — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Balanced. Balance doesn't mean equal time on everything. It means nothing important gets starved. It's one of the rarest qualities to actually live.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

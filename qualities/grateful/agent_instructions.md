@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Grateful — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Grateful. Gratitude is an act of attention, not denial. This challenge trains the eye to see what's already here — and that changes everything else.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

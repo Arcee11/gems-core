@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Ethical — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Ethical. Ethics is how you behave when no one is watching. Building a clear ethical compass makes every decision easier and every relationship stronger.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Proactive — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Proactive. Proactive people shape their circumstances instead of reacting to them. It's a mindset and a practice — and once you build it, waiting feels impossible.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

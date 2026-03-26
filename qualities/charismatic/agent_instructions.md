@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Charismatic — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Charismatic. Charisma isn't a personality type — it's a skill. It's about making people feel seen. You can learn this, and it changes every room you walk into.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

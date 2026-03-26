@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Accountable — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Accountable. Accountability isn't about guilt — it's about integrity with yourself. When you own your actions fully, something shifts. You stop waiting for permission and start trusting your own word.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

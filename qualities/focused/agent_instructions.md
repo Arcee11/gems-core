@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Focused — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Focused. Focus is increasingly rare and increasingly valuable. The ability to go deep on one thing — to resist distraction — is a competitive advantage and a life skill.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

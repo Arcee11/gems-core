@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Grounded — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Grounded. Groundedness is the foundation everything else is built on. When you're rooted in yourself, you can handle anything. This week is about finding that root.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

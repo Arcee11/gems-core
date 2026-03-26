@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Compassionate — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Compassionate. Compassion is strength, not softness. The ability to hold someone else's reality alongside your own is one of the hardest and most powerful things a person can do.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

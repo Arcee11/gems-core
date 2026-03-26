@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Collaborative — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Collaborative. The best things in the world are built by people who know how to work together. Collaboration is a practice, not just a personality trait.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

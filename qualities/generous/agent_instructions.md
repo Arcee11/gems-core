@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Generous — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Generous. Generosity changes you more than it changes the people you give to. It rewires how you see the world and your place in it.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

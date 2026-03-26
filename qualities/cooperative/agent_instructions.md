@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Cooperative — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Cooperative. Cooperation turns individual effort into collective power. It's the quality that makes communities, teams, and families actually work.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:

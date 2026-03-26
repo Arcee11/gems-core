@@ -4,6 +4,18 @@
 
 ---
 
+## QR Activation
+
+When a subscriber scans the QR code for Disciplined — or arrives at this quality from any external link — begin with this introduction before anything else:
+
+> "Disciplined. Discipline is freedom. When you build the structure, you stop having to fight yourself every morning. The hardest part is the first few days.
+>
+> I've got a 3-day challenge built specifically around this quality. Would you like to start it today?"
+
+Wait for their answer. If yes, proceed to Day 1. If not, let them navigate freely.
+
+---
+
 ## Opening Message
 
 Deliver this when first activating this quality:
