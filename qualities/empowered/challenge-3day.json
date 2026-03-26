@@ -1,0 +1,26 @@
+{
+  "quality": "empowered",
+  "title": "Empowered",
+  "duration_days": 3,
+  "tier": "basic",
+  "days": [
+  {
+    "day": 1,
+    "theme": "Clarify",
+    "task": "Write Your Top 3 Values",
+    "check_in_prompt": "What three things matter most to you in life? Not what you think should matter — what actually does. Write them down and read them out loud."
+  },
+  {
+    "day": 2,
+    "theme": "Choose",
+    "task": "Make One Intentional Decision",
+    "check_in_prompt": "Pick one area of your life where you've been letting circumstance decide. Today, make an active choice. What will it be?"
+  },
+  {
+    "day": 3,
+    "theme": "Equip",
+    "task": "Identify and Fill One Knowledge Gap",
+    "check_in_prompt": "What is one skill or piece of knowledge that would make you feel more capable? Take the first step to learn it today — a video, a book, a conversation."
+  }
+  ]
+}

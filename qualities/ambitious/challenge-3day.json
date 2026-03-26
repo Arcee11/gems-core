@@ -1,0 +1,26 @@
+{
+  "quality": "ambitious",
+  "title": "Ambitious",
+  "duration_days": 3,
+  "tier": "basic",
+  "days": [
+  {
+    "day": 1,
+    "theme": "Vision",
+    "task": "Write Your Ambitious Vision",
+    "check_in_prompt": "Not the safe version — the real one. What do you genuinely want to create or achieve? Write it in vivid detail. Don't hold back."
+  },
+  {
+    "day": 2,
+    "theme": "Milestones",
+    "task": "Map Three Key Milestones",
+    "check_in_prompt": "Between where you are and your vision, what are the three biggest stepping stones? Name them. This turns a dream into a roadmap."
+  },
+  {
+    "day": 3,
+    "theme": "Action",
+    "task": "Schedule Your First Move",
+    "check_in_prompt": "What is the single most important action you can take toward your vision this week? Put it in your calendar right now. When will you do it?"
+  }
+  ]
+}

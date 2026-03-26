@@ -1,0 +1,26 @@
+{
+  "quality": "resilient",
+  "title": "Resilient",
+  "duration_days": 3,
+  "tier": "basic",
+  "days": [
+  {
+    "day": 1,
+    "theme": "Reflect",
+    "task": "Identify a Past Comeback",
+    "check_in_prompt": "Think of a time you overcame something difficult. What three things helped you get through? Share them with me when you're ready."
+  },
+  {
+    "day": 2,
+    "theme": "Build",
+    "task": "Start Your Grounding Habit",
+    "check_in_prompt": "Choose one grounding habit to anchor your morning or evening this week. What will it be, and when will you do it?"
+  },
+  {
+    "day": 3,
+    "theme": "Connect",
+    "task": "Reach Out to One Person",
+    "check_in_prompt": "Who is one person you trust that you can share a current challenge or goal with? Reach out today. Resilience grows in connection."
+  }
+  ]
+}

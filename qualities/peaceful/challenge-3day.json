@@ -1,0 +1,26 @@
+{
+  "quality": "peaceful",
+  "title": "Peaceful",
+  "duration_days": 3,
+  "tier": "basic",
+  "days": [
+  {
+    "day": 1,
+    "theme": "Stillness",
+    "task": "Create Your Peace Ritual",
+    "check_in_prompt": "What one simple practice will you do every morning this week before the day begins? Even two minutes counts. Name it and do it right now."
+  },
+  {
+    "day": 2,
+    "theme": "Acceptance",
+    "task": "Practice Letting Go",
+    "check_in_prompt": "Name one thing you cannot change right now. Write it down, then write: 'I release my grip on this.' How does that feel?"
+  },
+  {
+    "day": 3,
+    "theme": "Boundary",
+    "task": "Reduce One Source of Chaos",
+    "check_in_prompt": "What is one unnecessary stressor in your daily life? What one change can you make to reduce it? Make that change today."
+  }
+  ]
+}

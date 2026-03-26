@@ -1,0 +1,26 @@
+{
+  "quality": "confident",
+  "title": "Confident",
+  "duration_days": 3,
+  "tier": "basic",
+  "days": [
+  {
+    "day": 1,
+    "theme": "Acknowledge",
+    "task": "List Three Strengths",
+    "check_in_prompt": "Write down three things you've done well or improved at recently. Read them out loud. I'll wait."
+  },
+  {
+    "day": 2,
+    "theme": "Stretch",
+    "task": "Take One Brave Action",
+    "check_in_prompt": "What's one thing slightly outside your comfort zone that you can do today? Do it and tell me how it went."
+  },
+  {
+    "day": 3,
+    "theme": "Embody",
+    "task": "Practice Confident Presence",
+    "check_in_prompt": "Today, stand tall, speak clearly, and use affirming language in every interaction. Notice how it changes how others respond — and how you feel."
+  }
+  ]
+}

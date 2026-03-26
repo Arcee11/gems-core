@@ -1,0 +1,26 @@
+{
+  "quality": "purpose-driven",
+  "title": "Purpose Driven",
+  "duration_days": 3,
+  "tier": "basic",
+  "days": [
+  {
+    "day": 1,
+    "theme": "Discover",
+    "task": "Name Your Why",
+    "check_in_prompt": "What are you here to contribute? Write one sentence — your personal mission statement. Read it out loud. Does it feel true?"
+  },
+  {
+    "day": 2,
+    "theme": "Align",
+    "task": "Connect Today to Your Purpose",
+    "check_in_prompt": "Look at your day. What one thing on your list directly serves your mission? Do that thing first, with full intention."
+  },
+  {
+    "day": 3,
+    "theme": "Filter",
+    "task": "Run One Decision Through Your Purpose Filter",
+    "check_in_prompt": "Today, before making any significant choice, ask: does this move me toward my mission? Share what you decided and why."
+  }
+  ]
+}
