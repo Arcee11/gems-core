@@ -7,7 +7,7 @@
 
 The Sound Sanctuary is the GEMS audio engine — a live playlist generator that creates personalized music sessions matched to each quality's emotional tone. Every session pulls from a real track library of instrumentals, songs, stories, meditations, affirmations, soundscapes, and spoken word.
 
-**Access:** [sound-sanctuary.vercel.app](https://sound-sanctuary.vercel.app)
+**Access:** [sound-sanctuary.vercel.app](https://sound-sanctuary-rust.vercel.app)
 
 ---
 
@@ -30,19 +30,19 @@ The Sound Sanctuary is the GEMS audio engine — a live playlist generator that 
 
 | Mood | Open Link |
 |------|-----------|
-| calm | [Open Calm Session →](https://sound-sanctuary.vercel.app?mood=calm&autoOpen=1) |
-| energy | [Open Energy Session →](https://sound-sanctuary.vercel.app?mood=energy&autoOpen=1) |
-| healing | [Open Healing Session →](https://sound-sanctuary.vercel.app?mood=healing&autoOpen=1) |
-| focus | [Open Focus Session →](https://sound-sanctuary.vercel.app?mood=focus&autoOpen=1) |
-| joy | [Open Joy Session →](https://sound-sanctuary.vercel.app?mood=joy&autoOpen=1) |
-| connection | [Open Connection Session →](https://sound-sanctuary.vercel.app?mood=connection&autoOpen=1) |
+| calm | [Open Calm Session →](https://sound-sanctuary-rust.vercel.app?mood=calm&autoOpen=1) |
+| energy | [Open Energy Session →](https://sound-sanctuary-rust.vercel.app?mood=energy&autoOpen=1) |
+| healing | [Open Healing Session →](https://sound-sanctuary-rust.vercel.app?mood=healing&autoOpen=1) |
+| focus | [Open Focus Session →](https://sound-sanctuary-rust.vercel.app?mood=focus&autoOpen=1) |
+| joy | [Open Joy Session →](https://sound-sanctuary-rust.vercel.app?mood=joy&autoOpen=1) |
+| connection | [Open Connection Session →](https://sound-sanctuary-rust.vercel.app?mood=connection&autoOpen=1) |
 
 **Special sessions:**
 
 | Session | Link |
 |---------|------|
-| Deep Work (Day 6, any quality) | [Open Deep Work →](https://sound-sanctuary.vercel.app?mood=focus&formats=instrumental&autoOpen=1&duration=25) |
-| Celebration (Day 7, any quality) | [Open Celebration →](https://sound-sanctuary.vercel.app?mood=joy&formats=song,instrumental&autoOpen=1&duration=20) |
+| Deep Work (Day 6, any quality) | [Open Deep Work →](https://sound-sanctuary-rust.vercel.app?mood=focus&formats=instrumental&autoOpen=1&duration=25) |
+| Celebration (Day 7, any quality) | [Open Celebration →](https://sound-sanctuary-rust.vercel.app?mood=joy&formats=song,instrumental&autoOpen=1&duration=20) |
 
 ---
 
