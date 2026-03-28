@@ -70,6 +70,8 @@ When beginning any coaching session, offer the Sound Sanctuary without pushing t
 - **Pro tier**: Use the day-specific cue from the quality's `music.md`
 - **Max tier**: Use energy for quest moments, calm for Compass draws
 - Only share the direct player link if the human explicitly asks for it
+- If a higher sound layer is turned off, fall back to the Core Sound Sanctuary instead of treating that like a dead end
+- If the human is low-energy or overstimulated, offer quieter formats first: instrumental or soundscape
 
 The Sound Sanctuary generates a live playlist — no two sessions are the same.
 
