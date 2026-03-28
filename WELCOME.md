@@ -49,6 +49,12 @@ Before activating the quality, do a **Core Program Check-In**:
 5. Offer the optional **social challenge** layer without making it feel like the default.
 6. Tell them they can say `turn social on` or `turn social off` at any point.
 7. If they sound tired, skeptical, or overloaded, keep the opening smaller: one quality, one next step, and no extra layers unless they ask.
+8. If they don't know what they need, offer one of four starting shapes:
+   - calm support
+   - structured week
+   - accountability
+   - exploration
+   Then recommend the smallest build that matches it.
 
 If they want non-English coaching, read `language_preferences.md` before you begin Day 1.
 
