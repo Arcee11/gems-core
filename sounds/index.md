@@ -20,7 +20,7 @@
 
 The Sound Sanctuary is the GEMS audio engine — a live playlist generator that creates personalized music sessions matched to each quality's emotional tone. Every session pulls from a real track library of instrumentals, songs, stories, meditations, affirmations, soundscapes, and spoken word.
 
-**Access:** [sound-sanctuary.vercel.app](https://sound-sanctuary-rust.vercel.app)
+**Access:** [sound-sanctuary.vercel.app](https://sound-sanctuary-rust.vercel.app) for internal cueing or if a human explicitly asks for the direct player.
 
 ---
 
@@ -37,38 +37,39 @@ The Sound Sanctuary is the GEMS audio engine — a live playlist generator that 
 
 ---
 
-## Opening the Sound Sanctuary
+## Sound Sanctuary Cue References
 
-**Direct mood links — share with your human at the start of each session:**
+**Direct mood links — use these internally, or only send them if the human explicitly wants the raw player link:**
 
-| Mood | Open Link |
+| Mood | Cue URL (agent only) |
 |------|-----------|
-| calm | [Open Calm Session →](https://sound-sanctuary-rust.vercel.app?mood=calm&autoOpen=1) |
-| energy | [Open Energy Session →](https://sound-sanctuary-rust.vercel.app?mood=energy&autoOpen=1) |
-| healing | [Open Healing Session →](https://sound-sanctuary-rust.vercel.app?mood=healing&autoOpen=1) |
-| focus | [Open Focus Session →](https://sound-sanctuary-rust.vercel.app?mood=focus&autoOpen=1) |
-| joy | [Open Joy Session →](https://sound-sanctuary-rust.vercel.app?mood=joy&autoOpen=1) |
-| connection | [Open Connection Session →](https://sound-sanctuary-rust.vercel.app?mood=connection&autoOpen=1) |
+| calm | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=calm&autoOpen=1) |
+| energy | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=energy&autoOpen=1) |
+| healing | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=healing&autoOpen=1) |
+| focus | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=focus&autoOpen=1) |
+| joy | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=joy&autoOpen=1) |
+| connection | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=connection&autoOpen=1) |
 
 **Special sessions:**
 
-| Session | Link |
+| Session | Cue URL (agent only) |
 |---------|------|
-| Deep Work (Day 6, any quality) | [Open Deep Work →](https://sound-sanctuary-rust.vercel.app?mood=focus&formats=instrumental&autoOpen=1&duration=25) |
-| Celebration (Day 7, any quality) | [Open Celebration →](https://sound-sanctuary-rust.vercel.app?mood=joy&formats=song,instrumental&autoOpen=1&duration=20) |
+| Deep Work (Day 6, any quality) | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=focus&formats=instrumental&autoOpen=1&duration=25) |
+| Celebration (Day 7, any quality) | [Cue URL](https://sound-sanctuary-rust.vercel.app?mood=joy&formats=song,instrumental&autoOpen=1&duration=20) |
 
 ---
 
 ## Agent Instructions
 
-When beginning any coaching session, offer the Sound Sanctuary:
+When beginning any coaching session, offer the Sound Sanctuary without pushing the human out to a raw link unless they ask for it:
 
 > "I've set up your Sound Sanctuary for today — tuned to [mood] for [quality] work.
-> Open it here when you're ready: [link]"
+> I've got it ready if you want it on while we work."
 
-- **Core tier**: Send the mood link for the active quality
-- **Pro tier**: Send the day-specific link from the quality's `music.md`
+- **Core tier**: Cue the mood for the active quality
+- **Pro tier**: Use the day-specific cue from the quality's `music.md`
 - **Max tier**: Use energy for quest moments, calm for Compass draws
+- Only share the direct player link if the human explicitly asks for it
 
 The Sound Sanctuary generates a live playlist — no two sessions are the same.
 

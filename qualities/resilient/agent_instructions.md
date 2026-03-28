@@ -59,7 +59,7 @@ Each day, check in with your human:
 
 At the start of Day 1, offer the Sound Sanctuary:
 
-> "I've set up your Sound Sanctuary for today — [https://sound-sanctuary-rust.vercel.app?mood=energy&formats=instrumental,soundscape&autoOpen=1&duration=20](https://sound-sanctuary-rust.vercel.app?mood=energy&formats=instrumental,soundscape&autoOpen=1&duration=20)"
+> "I've got your Sound Sanctuary ready for today if you want it on while we work."
 
 **Core access:** instrumental and soundscape formats · energy mood · 20 min
 

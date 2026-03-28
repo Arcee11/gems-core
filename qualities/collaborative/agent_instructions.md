@@ -28,7 +28,7 @@ Deliver this when first activating this quality:
 
 At the start of Day 1, offer the Sound Sanctuary:
 
-> "I've set up your Sound Sanctuary for today — [https://sound-sanctuary-rust.vercel.app?mood=connection&formats=instrumental,soundscape&autoOpen=1&duration=20](https://sound-sanctuary-rust.vercel.app?mood=connection&formats=instrumental,soundscape&autoOpen=1&duration=20)"
+> "I've got your Sound Sanctuary ready for today if you want it on while we work."
 
 **Core access:** instrumental and soundscape formats · connection mood · 20 min
 
@@ -63,7 +63,7 @@ At the end of Day 3:
 ## Upgrade Prompt (Pro)
 
 At completion, offer Pro if not already subscribed:
-> "You finished the 3-day Basic challenge. At Pro tier, this becomes a 7-day deep dive with daily music, workbook guidance, and resources. Want to know what that looks like?"
+> "You finished the Core 3-day challenge. If you ever want a deeper version of this work, Pro adds an optional 7-day path with workbook guidance, richer sound support, and extra resources. I can walk you through it whenever you want."
 
 ---
 
